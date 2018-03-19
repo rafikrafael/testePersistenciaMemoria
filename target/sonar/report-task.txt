@@ -1,0 +1,6 @@
+projectKey=tads.jpa.demo:JPAExamples
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/tads.jpa.demo:JPAExamples
+ceTaskId=AWI1-09vKBw_hwMYUWgj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWI1-09vKBw_hwMYUWgj
