@@ -10,7 +10,7 @@ import javax.persistence.criteria.CriteriaQuery;
 public abstract class BaseDAOImpl<T> implements BaseDAO<T> {
 
 	@PersistenceContext
-	private EntityManager manager;
+	protected EntityManager manager;
 
 	private Class<T> persistedClass;
 
